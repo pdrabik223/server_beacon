@@ -1,0 +1,3 @@
+[submodule "pi_pico_neopixel_tools"]
+	path = pi_pico_neopixel_tools
+	url = https://github.com/pdrabik223/pi_pico_neopixel_tools
